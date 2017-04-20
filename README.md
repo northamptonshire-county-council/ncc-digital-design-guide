@@ -7,8 +7,8 @@ The NCC Digital Design Guide is built upon [Fractal](https://github.com/frctl/fr
 To get the project up and running, and view components in the browser, complete the following steps:
 
 1. Download and install Node: <https://nodejs.org/>
-2. Clone this repo: `git clone git@github.com:richardwiggins/ncc-test.git` (SSH) or `https://github.com/richardwiggins/ncc-test.git` (HTTPS)
-3. [Optional] Install Gulp globally: `npm install gulp -g`
+2. Clone this repo
+3. [Optional] Install Gulp and Gulp CLI globally: `npm install gulp gulp-cli -g`
 4. [Optional] Install Fractal globally: `npm install fractal -g`
 5. Install project dependancies: `npm install`
 6. Start the development environment: `gulp dev`
